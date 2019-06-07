@@ -1,5 +1,5 @@
 # SQL-WorldFactbook
-Practice the Python SQLite workflow using CIA World Factbook data (SQLite, Pandas, Matplotlib)
+Practice the Python SQLite workflow using CIA World Factbook data
 
 This is a short and simple project. My goal is to practice writing queries and subqueries (nested queries) with SQLite in a JupyterNotebook. SQL is a popular tool required in most data analyst job postings. 
 
