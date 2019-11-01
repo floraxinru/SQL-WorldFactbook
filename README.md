@@ -11,9 +11,7 @@ Python, SQLite, Pandas, Matplotlib(for histograms), JupyterNotebook
 ## Overview
 In this project, I work with data from the CIA World Factbook database. It contains statistics about all of the countries on Earth. The Factbook contains demographic information such as population (as of 2015), population_growth, and area.
 
-I explore aspects such as population density (population divided by land area), and ratios of water area to land area. I also visualize data by plotting histograms using Pandas and Matplotlib.
-
-I used Pandas to run SQL queries to display the results neatly as a DataFrame object in the JupyterNotebook environment. Learning how to use SQLite on its own is still useful because most data analysts and data scientists in the industry use a SQL GUI based tool such as Mode Analytics, Periscope Data, MySQL Workbench, and Jack DB.
+I explore aspects such as population density (population divided by land area), and ratios of water area to land area. I also visualize data by plotting histograms using Pandas and Matplotlib. I used Pandas to run SQL queries to display the results neatly as a DataFrame object in the JupyterNotebook environment. 
 
 
 ## Data
